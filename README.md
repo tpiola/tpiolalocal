@@ -1,35 +1,24 @@
-# TpiolaLocal
+# TPiolaLocal — protótipo pausado
 
-Melhor agente para negócios locais do mundo.
+Dashboard experimental de CRM e análise para negócios locais.
 
-## 🚀 Dashboard Inteligente
+## Estado
 
-Dashboard de CRM e análise de negócios locais com IA, desenvolvido com Next.js 14.
+O desenvolvimento está **pausado**. O código foi preservado para uma possível retomada futura, mas este repositório não deve receber novos deploys nem domínio de produção neste momento.
 
-## 🛠️ Stack
+A prioridade atual do ecossistema está nos produtos simples e vendáveis, sites e aplicações de entrega rápida. A governança dos projetos fica em [`tpiola/hub`](https://github.com/tpiola/hub).
 
-- **Next.js 14** — App Router
-- **React 18** — Server & Client Components
-- **TypeScript** — Tipagem estática
-- **Tailwind CSS** — Estilização utilitária
-- **Framer Motion** — Animações
-- **Recharts** — Gráficos e visualizações
-- **Lucide React** — Icones
+## Stack preservada
 
-## 📦 Instalação
+- Next.js 14;
+- React 18;
+- TypeScript;
+- Tailwind CSS;
+- Framer Motion;
+- Recharts.
 
-```bash
-npm install
-npm run dev
-```
+Antes de retomar, atualizar a stack, revisar dependências e decidir se as funcionalidades devem ser incorporadas ao `thiago-lab` em vez de manter uma aplicação separada.
 
-## 🏗️ Build
+## Regra
 
-```bash
-npm run build
-npm start
-```
-
-## 🌐 Deploy
-
-Projeto configurado para deploy na Vercel.
+Não conectar à Vercel enquanto o projeto estiver pausado.
